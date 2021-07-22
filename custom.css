@@ -122,3 +122,32 @@ li {
 .font200 {
   font-size: 200%;
 }
+
+.line-space1-2 {
+  line-height: 1.2em;
+}
+
+.line-space1-5 {
+  line-height: 1.5em;
+}
+
+.line-space2-0 {
+  line-height: 2em;
+}
+
+div.line-space2-0 ul li {
+  line-height: 2em;
+}
+
+div.line-space2-2 ul li {
+  line-height: 2.2em;
+}
+
+
+div.line-space2-5 ul li {
+  line-height: 2.5em;
+}
+
+div.line-space3-0 ul li {
+  line-height: 3.0em;
+}
