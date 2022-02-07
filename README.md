@@ -1,2 +1,2 @@
-# xaringan-lis
-Lis theme of R package xaringan 
+# xaringan-innovar
+Innovar theme of R package xaringan 
