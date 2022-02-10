@@ -120,6 +120,8 @@ meta() %>%
 
 # `r rmarkdown::metadata$title`
 
+## `r rmarkdown::metadata$subtitle`
+
 ## `r rmarkdown::metadata$author`  
 
 ### `r Sys.Date()`
