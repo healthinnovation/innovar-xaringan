@@ -105,18 +105,17 @@ xaringanExtra::use_progress_bar(
 
 ```{r metathis, echo=FALSE}
 meta() %>%
-  meta_name("github-repo" = "healthinnovation/xaringan-innovar") %>%
+  meta_name("github-repo" = "healthinnovation/innovar-xaringan") %>%
   meta_social(
     title = "Plantilla Innovar Xaringan",
     description = "Innovar theme of R package xaringan",
-    url = "https://healthinnovation.github.io/xaringan-innovar/",
-    image = "https://healthinnovation.github.io/xaringan-innovar/img/cover-plantilla.png",
+    url = "https://healthinnovation.github.io/innovar-xaringan/",
+    image = "https://healthinnovation.github.io/innovar-xaringan/img/cover-plantilla.png",
     image_alt = "Innovar theme of R package xaringan",
     og_type = "website",
     og_author = "Laboratorio de Innovación en Salud",
     twitter_card_type = "summary_large_image",
-    twitter_creator = "@innovalab_imt",
-    twitter_site = "@innovalab_imt"
+    twitter_creator = "@innovalab_imt"
   )
 ```
 
