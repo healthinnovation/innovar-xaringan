@@ -117,7 +117,7 @@ meta() %>%
   meta_social(
     title = "Plantilla Innovar Xaringan",
     url = "https://healthinnovation.github.io/innovar-xaringan/",
-    image = "https://healthinnovation.github.io/innovar-xaringan/img/cover-plantilla.png",
+    image = "https://raw.githubusercontent.com/healthinnovation/innovar-xaringan/main/img/cover-plantilla.png",
     image_alt = "Innovar theme of R package xaringan",
     og_type = "website",
     og_author = "Laboratorio de Innovación en Salud",
