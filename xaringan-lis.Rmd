@@ -13,7 +13,6 @@ output:
       highlightLines: true
       ratio: 16:9
       countIncrementalSlides: true
-      beforeInit: ["https://platform.twitter.com/widgets.js"]
     seal: false
 ---
 
